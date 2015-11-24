@@ -1,0 +1,974 @@
+
+
+Started GET "/" for ::1 at 2015-09-15 08:55:57 -0400
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (1.6ms)
+Completed 200 OK in 1326ms (Views: 1317.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2015-09-15 08:55:59 -0400
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-09-15 08:55:59 -0400
+
+
+Started GET "/assets/welcome.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-09-15 08:55:59 -0400
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2015-09-15 08:55:59 -0400
+
+
+Started GET "/assets/welcome.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-09-15 08:55:59 -0400
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2015-09-15 08:55:59 -0400
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2015-09-15 08:55:59 -0400
+
+
+Started GET "/test" for ::1 at 2015-09-15 08:56:41 -0400
+Processing by WelcomeController#test as HTML
+  Rendered welcome/test.html.erb within layouts/application (1.6ms)
+Completed 200 OK in 595ms (Views: 51.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/test" for ::1 at 2015-09-15 08:57:24 -0400
+Processing by WelcomeController#test as HTML
+  Rendered welcome/test.html.erb within layouts/application (1.6ms)
+Completed 200 OK in 801ms (Views: 48.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2015-09-15 08:57:25 -0400
+
+
+Started GET "/assets/welcome.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-09-15 08:57:25 -0400
+
+
+Started GET "/assets/welcome.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-09-15 08:57:25 -0400
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2015-09-15 08:57:25 -0400
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-09-15 08:57:25 -0400
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2015-09-15 08:57:25 -0400
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2015-09-15 08:57:25 -0400
+
+
+Started GET "/test" for ::1 at 2015-09-15 09:01:12 -0400
+Processing by WelcomeController#test as HTML
+  Rendered welcome/test.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 831ms (Views: 53.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/test" for ::1 at 2015-09-15 09:01:24 -0400
+Processing by WelcomeController#test as HTML
+  Rendered welcome/test.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 382ms (Views: 44.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/test" for ::1 at 2015-09-15 09:02:31 -0400
+Processing by WelcomeController#test as HTML
+  Rendered welcome/test.html.erb within layouts/application (1.2ms)
+Completed 200 OK in 902ms (Views: 65.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/test" for ::1 at 2015-09-15 09:02:37 -0400
+Processing by WelcomeController#test as HTML
+  Rendered welcome/test.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 362ms (Views: 39.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/welcome.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-09-15 09:02:37 -0400
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-09-15 09:02:37 -0400
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2015-09-15 09:02:37 -0400
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2015-09-15 09:02:37 -0400
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2015-09-15 09:02:37 -0400
+
+
+Started GET "/assets/welcome.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-09-15 09:02:37 -0400
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2015-09-15 09:02:37 -0400
+
+
+Started GET "/test" for ::1 at 2015-09-15 09:21:27 -0400
+Processing by WelcomeController#test as HTML
+  Rendered welcome/test.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 432ms (Views: 51.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/welcome.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-09-15 09:21:27 -0400
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2015-09-15 09:21:27 -0400
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2015-09-15 09:21:27 -0400
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2015-09-15 09:21:27 -0400
+
+
+Started GET "/assets/welcome.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-09-15 09:21:27 -0400
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-09-15 09:21:27 -0400
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2015-09-15 09:21:27 -0400
+
+
+Started GET "/" for ::1 at 2015-09-15 09:21:32 -0400
+Processing by WelcomeController#index as HTML
+  Rendered welcome/_form.html.erb (1.8ms)
+  Rendered welcome/index.html.erb within layouts/application (17.5ms)
+Completed 200 OK in 44ms (Views: 43.4ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/index" for ::1 at 2015-09-15 09:21:50 -0400
+Processing by WelcomeController#index as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"t7j0A3Sp0YZ0EWycOc/D4ap99racLM7Uf6QXjZRZEkx1SpIxHLTxwqHlukLMWXUlpmt3Oms+EGLvisfl7Ck/Yw==", "city"=>"Pittsburgh", "state"=>"PA", "commit"=>"Check Weather"}
+  Rendered welcome/_form.html.erb (1.1ms)
+  Rendered welcome/index.html.erb within layouts/application (2.6ms)
+Completed 200 OK in 921ms (Views: 31.6ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/index" for ::1 at 2015-09-15 09:39:00 -0400
+Processing by WelcomeController#index as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"xTS0K29XIRJMDvcegULxF63w7jW1v07LkExrnV5ca/sHxtIZB0oBVpn6IcB01EfToeZvuUKtkH0AYrv1JixG1A==", "city"=>"Charlotte", "state"=>"NC", "commit"=>"Check Weather"}
+  Rendered welcome/_form.html.erb (2.4ms)
+  Rendered welcome/index.html.erb within layouts/application (4.4ms)
+Completed 200 OK in 707ms (Views: 66.7ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/index" for ::1 at 2015-09-15 09:39:25 -0400
+Processing by WelcomeController#index as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"xTS0K29XIRJMDvcegULxF63w7jW1v07LkExrnV5ca/sHxtIZB0oBVpn6IcB01EfToeZvuUKtkH0AYrv1JixG1A==", "city"=>"Charlotte", "state"=>"NC", "commit"=>"Check Weather"}
+  Rendered welcome/_form.html.erb (1.9ms)
+  Rendered welcome/index.html.erb within layouts/application (3.7ms)
+Completed 200 OK in 935ms (Views: 36.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/welcome.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-09-15 09:39:26 -0400
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-09-15 09:39:26 -0400
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2015-09-15 09:39:26 -0400
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2015-09-15 09:39:26 -0400
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2015-09-15 09:39:26 -0400
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2015-09-15 09:39:26 -0400
+
+
+Started GET "/assets/welcome.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-09-15 09:39:26 -0400
+
+
+Started POST "/index" for ::1 at 2015-09-15 09:45:31 -0400
+Processing by WelcomeController#index as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"xTS0K29XIRJMDvcegULxF63w7jW1v07LkExrnV5ca/sHxtIZB0oBVpn6IcB01EfToeZvuUKtkH0AYrv1JixG1A==", "city"=>"Charlotte", "state"=>"NC", "commit"=>"Check Weather"}
+  Rendered welcome/_form.html.erb (3.4ms)
+  Rendered welcome/index.html.erb within layouts/application (6.9ms)
+Completed 200 OK in 684ms (Views: 86.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-09-15 09:45:31 -0400
+
+
+Started GET "/assets/welcome.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-09-15 09:45:31 -0400
+
+
+Started GET "/assets/welcome.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-09-15 09:45:31 -0400
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2015-09-15 09:45:31 -0400
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2015-09-15 09:45:31 -0400
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2015-09-15 09:45:31 -0400
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2015-09-15 09:45:31 -0400
+
+
+Started POST "/index" for ::1 at 2015-09-15 09:45:44 -0400
+Processing by WelcomeController#index as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"eyAot9rqmExePuqjnxgvQlQ16tSCQ2rW0Uc0atMVpQC50k6Fsve4CIvKPH1qjpmGWCNrWHVRtGBBaeQCq2WILw==", "city"=>"Pittsburgh", "state"=>"PA", "commit"=>"Check Weather"}
+  Rendered welcome/_form.html.erb (2.0ms)
+  Rendered welcome/index.html.erb within layouts/application (3.4ms)
+Completed 200 OK in 507ms (Views: 33.3ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/index" for ::1 at 2015-09-15 09:46:08 -0400
+Processing by WelcomeController#index as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"ncDWYU52NXR7sTDV0h+wK9lkxgR85Ik9GUZeq/0L1tdfMrBTJmsVMK5F5gsniQbv1XJHiIv2V4uJaI7DhXv7+A==", "city"=>"", "state"=>"", "commit"=>"Check Weather"}
+Completed 500 Internal Server Error in 855ms (ActiveRecord: 0.0ms)
+
+NoMethodError (undefined method `[]' for nil:NilClass):
+  app/controllers/welcome_controller.rb:12:in `index'
+
+
+  Rendered /Users/jhnath/.rvm/gems/ruby-2.2.1/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/rescues/_source.erb (6.5ms)
+  Rendered /Users/jhnath/.rvm/gems/ruby-2.2.1/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (3.6ms)
+  Rendered /Users/jhnath/.rvm/gems/ruby-2.2.1/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.7ms)
+  Rendered /Users/jhnath/.rvm/gems/ruby-2.2.1/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (57.5ms)
+  Rendered /Users/jhnath/.rvm/gems/ruby-2.2.1/gems/web-console-2.2.1/lib/web_console/templates/_markup.html.erb (0.4ms)
+  Rendered /Users/jhnath/.rvm/gems/ruby-2.2.1/gems/web-console-2.2.1/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.5ms)
+  Rendered /Users/jhnath/.rvm/gems/ruby-2.2.1/gems/web-console-2.2.1/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.6ms)
+  Rendered /Users/jhnath/.rvm/gems/ruby-2.2.1/gems/web-console-2.2.1/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.4ms)
+  Rendered /Users/jhnath/.rvm/gems/ruby-2.2.1/gems/web-console-2.2.1/lib/web_console/templates/console.js.erb within layouts/javascript (53.6ms)
+  Rendered /Users/jhnath/.rvm/gems/ruby-2.2.1/gems/web-console-2.2.1/lib/web_console/templates/main.js.erb within layouts/javascript (0.4ms)
+  Rendered /Users/jhnath/.rvm/gems/ruby-2.2.1/gems/web-console-2.2.1/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.5ms)
+  Rendered /Users/jhnath/.rvm/gems/ruby-2.2.1/gems/web-console-2.2.1/lib/web_console/templates/index.html.erb (107.7ms)
+
+
+Started POST "/index" for ::1 at 2015-09-15 09:47:20 -0400
+Processing by WelcomeController#index as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"ncDWYU52NXR7sTDV0h+wK9lkxgR85Ik9GUZeq/0L1tdfMrBTJmsVMK5F5gsniQbv1XJHiIv2V4uJaI7DhXv7+A==", "city"=>"", "state"=>"", "commit"=>"Check Weather"}
+Completed 500 Internal Server Error in 806ms (ActiveRecord: 0.0ms)
+
+NoMethodError (undefined method `[]' for nil:NilClass):
+  app/controllers/welcome_controller.rb:12:in `index'
+
+
+  Rendered /Users/jhnath/.rvm/gems/ruby-2.2.1/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/rescues/_source.erb (4.1ms)
+  Rendered /Users/jhnath/.rvm/gems/ruby-2.2.1/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.9ms)
+  Rendered /Users/jhnath/.rvm/gems/ruby-2.2.1/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.0ms)
+  Rendered /Users/jhnath/.rvm/gems/ruby-2.2.1/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (48.5ms)
+  Rendered /Users/jhnath/.rvm/gems/ruby-2.2.1/gems/web-console-2.2.1/lib/web_console/templates/_markup.html.erb (0.5ms)
+  Rendered /Users/jhnath/.rvm/gems/ruby-2.2.1/gems/web-console-2.2.1/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.3ms)
+  Rendered /Users/jhnath/.rvm/gems/ruby-2.2.1/gems/web-console-2.2.1/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.4ms)
+  Rendered /Users/jhnath/.rvm/gems/ruby-2.2.1/gems/web-console-2.2.1/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.3ms)
+  Rendered /Users/jhnath/.rvm/gems/ruby-2.2.1/gems/web-console-2.2.1/lib/web_console/templates/console.js.erb within layouts/javascript (39.7ms)
+  Rendered /Users/jhnath/.rvm/gems/ruby-2.2.1/gems/web-console-2.2.1/lib/web_console/templates/main.js.erb within layouts/javascript (0.4ms)
+  Rendered /Users/jhnath/.rvm/gems/ruby-2.2.1/gems/web-console-2.2.1/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.4ms)
+  Rendered /Users/jhnath/.rvm/gems/ruby-2.2.1/gems/web-console-2.2.1/lib/web_console/templates/index.html.erb (89.4ms)
+
+
+Started POST "/index" for ::1 at 2015-09-15 09:47:39 -0400
+Processing by WelcomeController#index as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"ncDWYU52NXR7sTDV0h+wK9lkxgR85Ik9GUZeq/0L1tdfMrBTJmsVMK5F5gsniQbv1XJHiIv2V4uJaI7DhXv7+A==", "city"=>"", "state"=>"", "commit"=>"Check Weather"}
+Completed 500 Internal Server Error in 882ms (ActiveRecord: 0.0ms)
+
+NoMethodError (undefined method `[]' for nil:NilClass):
+  app/controllers/welcome_controller.rb:12:in `index'
+
+
+  Rendered /Users/jhnath/.rvm/gems/ruby-2.2.1/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/rescues/_source.erb (5.0ms)
+  Rendered /Users/jhnath/.rvm/gems/ruby-2.2.1/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.0ms)
+  Rendered /Users/jhnath/.rvm/gems/ruby-2.2.1/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.0ms)
+  Rendered /Users/jhnath/.rvm/gems/ruby-2.2.1/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (51.9ms)
+  Rendered /Users/jhnath/.rvm/gems/ruby-2.2.1/gems/web-console-2.2.1/lib/web_console/templates/_markup.html.erb (0.4ms)
+  Rendered /Users/jhnath/.rvm/gems/ruby-2.2.1/gems/web-console-2.2.1/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.4ms)
+  Rendered /Users/jhnath/.rvm/gems/ruby-2.2.1/gems/web-console-2.2.1/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.4ms)
+  Rendered /Users/jhnath/.rvm/gems/ruby-2.2.1/gems/web-console-2.2.1/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.3ms)
+  Rendered /Users/jhnath/.rvm/gems/ruby-2.2.1/gems/web-console-2.2.1/lib/web_console/templates/console.js.erb within layouts/javascript (42.2ms)
+  Rendered /Users/jhnath/.rvm/gems/ruby-2.2.1/gems/web-console-2.2.1/lib/web_console/templates/main.js.erb within layouts/javascript (0.3ms)
+  Rendered /Users/jhnath/.rvm/gems/ruby-2.2.1/gems/web-console-2.2.1/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.4ms)
+  Rendered /Users/jhnath/.rvm/gems/ruby-2.2.1/gems/web-console-2.2.1/lib/web_console/templates/index.html.erb (91.6ms)
+
+
+Started POST "/index" for ::1 at 2015-09-15 09:48:12 -0400
+Processing by WelcomeController#index as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"ncDWYU52NXR7sTDV0h+wK9lkxgR85Ik9GUZeq/0L1tdfMrBTJmsVMK5F5gsniQbv1XJHiIv2V4uJaI7DhXv7+A==", "city"=>"", "state"=>"", "commit"=>"Check Weather"}
+Completed 500 Internal Server Error in 834ms (ActiveRecord: 0.0ms)
+
+NoMethodError (undefined method `[]' for nil:NilClass):
+  app/controllers/welcome_controller.rb:12:in `index'
+
+
+  Rendered /Users/jhnath/.rvm/gems/ruby-2.2.1/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/rescues/_source.erb (4.3ms)
+  Rendered /Users/jhnath/.rvm/gems/ruby-2.2.1/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.1ms)
+  Rendered /Users/jhnath/.rvm/gems/ruby-2.2.1/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.2ms)
+  Rendered /Users/jhnath/.rvm/gems/ruby-2.2.1/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (49.9ms)
+  Rendered /Users/jhnath/.rvm/gems/ruby-2.2.1/gems/web-console-2.2.1/lib/web_console/templates/_markup.html.erb (0.5ms)
+  Rendered /Users/jhnath/.rvm/gems/ruby-2.2.1/gems/web-console-2.2.1/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.4ms)
+  Rendered /Users/jhnath/.rvm/gems/ruby-2.2.1/gems/web-console-2.2.1/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.3ms)
+  Rendered /Users/jhnath/.rvm/gems/ruby-2.2.1/gems/web-console-2.2.1/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.4ms)
+  Rendered /Users/jhnath/.rvm/gems/ruby-2.2.1/gems/web-console-2.2.1/lib/web_console/templates/console.js.erb within layouts/javascript (43.1ms)
+  Rendered /Users/jhnath/.rvm/gems/ruby-2.2.1/gems/web-console-2.2.1/lib/web_console/templates/main.js.erb within layouts/javascript (0.3ms)
+  Rendered /Users/jhnath/.rvm/gems/ruby-2.2.1/gems/web-console-2.2.1/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.4ms)
+  Rendered /Users/jhnath/.rvm/gems/ruby-2.2.1/gems/web-console-2.2.1/lib/web_console/templates/index.html.erb (95.2ms)
+
+
+Started GET "/" for ::1 at 2015-09-15 09:48:16 -0400
+Processing by WelcomeController#index as HTML
+  Rendered welcome/_form.html.erb (1.3ms)
+  Rendered welcome/index.html.erb within layouts/application (3.1ms)
+Completed 200 OK in 52ms (Views: 51.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-602971811754c378e651cd71eff35c2388f77fd7f2f7d64d2700694477d366f3.css?body=1" for ::1 at 2015-09-15 09:48:16 -0400
+
+
+Started GET "/" for ::1 at 2015-09-15 09:51:36 -0400
+Processing by WelcomeController#index as HTML
+  Rendered welcome/_form.html.erb (1.5ms)
+  Rendered welcome/index.html.erb within layouts/application (3.6ms)
+Completed 200 OK in 43ms (Views: 41.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/welcome.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-09-15 09:51:36 -0400
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-09-15 09:51:36 -0400
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2015-09-15 09:51:36 -0400
+
+
+Started GET "/assets/application.self-602971811754c378e651cd71eff35c2388f77fd7f2f7d64d2700694477d366f3.css?body=1" for ::1 at 2015-09-15 09:51:36 -0400
+
+
+Started GET "/assets/welcome.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-09-15 09:51:36 -0400
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2015-09-15 09:51:36 -0400
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2015-09-15 09:51:36 -0400
+
+
+Started POST "/index" for ::1 at 2015-09-15 09:51:45 -0400
+Processing by WelcomeController#index as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"WPfFEgtaYRYLd0iUm3JCcQ3iZEI/OG0GMaEVxiZP9CaaBaMgY0dBUt6Dnkpu5PS1AfTlzsgqs7Chj8WuXj/ZCQ==", "city"=>"Pittsburgh", "state"=>"PA", "commit"=>"Check Weather"}
+Completed 500 Internal Server Error in 1591ms (ActiveRecord: 0.0ms)
+
+NoMethodError (undefined method `[]' for nil:NilClass):
+  app/controllers/welcome_controller.rb:12:in `index'
+
+
+  Rendered /Users/jhnath/.rvm/gems/ruby-2.2.1/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/rescues/_source.erb (4.1ms)
+  Rendered /Users/jhnath/.rvm/gems/ruby-2.2.1/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.0ms)
+  Rendered /Users/jhnath/.rvm/gems/ruby-2.2.1/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.4ms)
+  Rendered /Users/jhnath/.rvm/gems/ruby-2.2.1/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (53.2ms)
+  Rendered /Users/jhnath/.rvm/gems/ruby-2.2.1/gems/web-console-2.2.1/lib/web_console/templates/_markup.html.erb (0.4ms)
+  Rendered /Users/jhnath/.rvm/gems/ruby-2.2.1/gems/web-console-2.2.1/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.5ms)
+  Rendered /Users/jhnath/.rvm/gems/ruby-2.2.1/gems/web-console-2.2.1/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.3ms)
+  Rendered /Users/jhnath/.rvm/gems/ruby-2.2.1/gems/web-console-2.2.1/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.5ms)
+  Rendered /Users/jhnath/.rvm/gems/ruby-2.2.1/gems/web-console-2.2.1/lib/web_console/templates/console.js.erb within layouts/javascript (47.5ms)
+  Rendered /Users/jhnath/.rvm/gems/ruby-2.2.1/gems/web-console-2.2.1/lib/web_console/templates/main.js.erb within layouts/javascript (0.3ms)
+  Rendered /Users/jhnath/.rvm/gems/ruby-2.2.1/gems/web-console-2.2.1/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.4ms)
+  Rendered /Users/jhnath/.rvm/gems/ruby-2.2.1/gems/web-console-2.2.1/lib/web_console/templates/index.html.erb (97.9ms)
+
+
+Started POST "/index" for ::1 at 2015-09-15 09:53:31 -0400
+Processing by WelcomeController#index as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"WPfFEgtaYRYLd0iUm3JCcQ3iZEI/OG0GMaEVxiZP9CaaBaMgY0dBUt6Dnkpu5PS1AfTlzsgqs7Chj8WuXj/ZCQ==", "city"=>"Pittsburgh", "state"=>"PA", "commit"=>"Check Weather"}
+  Rendered welcome/_form.html.erb (1.6ms)
+  Rendered welcome/index.html.erb within layouts/application (3.7ms)
+Completed 200 OK in 951ms (Views: 47.1ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/index" for ::1 at 2015-09-15 10:04:29 -0400
+Processing by WelcomeController#index as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"Ug/Ig4a1ky7EN8hYMOz01n2bkAn8XHRmh++iwea1b0mQ/a6x7qizahHDHobFekIScY0RhQtOqtAXwXKpnsVCZg==", "city"=>"Pittsburgh", "state"=>"", "commit"=>"Check Weather"}
+Completed 500 Internal Server Error in 1423ms (ActiveRecord: 0.0ms)
+
+NoMethodError (undefined method `[]' for nil:NilClass):
+  app/controllers/welcome_controller.rb:12:in `index'
+
+
+  Rendered /Users/jhnath/.rvm/gems/ruby-2.2.1/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/rescues/_source.erb (4.3ms)
+  Rendered /Users/jhnath/.rvm/gems/ruby-2.2.1/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.1ms)
+  Rendered /Users/jhnath/.rvm/gems/ruby-2.2.1/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.1ms)
+  Rendered /Users/jhnath/.rvm/gems/ruby-2.2.1/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (51.5ms)
+  Rendered /Users/jhnath/.rvm/gems/ruby-2.2.1/gems/web-console-2.2.1/lib/web_console/templates/_markup.html.erb (0.4ms)
+  Rendered /Users/jhnath/.rvm/gems/ruby-2.2.1/gems/web-console-2.2.1/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.7ms)
+  Rendered /Users/jhnath/.rvm/gems/ruby-2.2.1/gems/web-console-2.2.1/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.4ms)
+  Rendered /Users/jhnath/.rvm/gems/ruby-2.2.1/gems/web-console-2.2.1/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.5ms)
+  Rendered /Users/jhnath/.rvm/gems/ruby-2.2.1/gems/web-console-2.2.1/lib/web_console/templates/console.js.erb within layouts/javascript (50.0ms)
+  Rendered /Users/jhnath/.rvm/gems/ruby-2.2.1/gems/web-console-2.2.1/lib/web_console/templates/main.js.erb within layouts/javascript (0.5ms)
+  Rendered /Users/jhnath/.rvm/gems/ruby-2.2.1/gems/web-console-2.2.1/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.6ms)
+  Rendered /Users/jhnath/.rvm/gems/ruby-2.2.1/gems/web-console-2.2.1/lib/web_console/templates/index.html.erb (111.2ms)
+
+
+Started POST "/index" for ::1 at 2015-09-15 10:04:42 -0400
+Processing by WelcomeController#index as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"Ug/Ig4a1ky7EN8hYMOz01n2bkAn8XHRmh++iwea1b0mQ/a6x7qizahHDHobFekIScY0RhQtOqtAXwXKpnsVCZg==", "city"=>"Pittsburgh", "state"=>"PA", "commit"=>"Check Weather"}
+Completed 500 Internal Server Error in 1207ms (ActiveRecord: 0.0ms)
+
+NoMethodError (undefined method `[]' for nil:NilClass):
+  app/controllers/welcome_controller.rb:12:in `index'
+
+
+  Rendered /Users/jhnath/.rvm/gems/ruby-2.2.1/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/rescues/_source.erb (3.9ms)
+  Rendered /Users/jhnath/.rvm/gems/ruby-2.2.1/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (3.5ms)
+  Rendered /Users/jhnath/.rvm/gems/ruby-2.2.1/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.0ms)
+  Rendered /Users/jhnath/.rvm/gems/ruby-2.2.1/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (54.4ms)
+  Rendered /Users/jhnath/.rvm/gems/ruby-2.2.1/gems/web-console-2.2.1/lib/web_console/templates/_markup.html.erb (0.4ms)
+  Rendered /Users/jhnath/.rvm/gems/ruby-2.2.1/gems/web-console-2.2.1/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.3ms)
+  Rendered /Users/jhnath/.rvm/gems/ruby-2.2.1/gems/web-console-2.2.1/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.3ms)
+  Rendered /Users/jhnath/.rvm/gems/ruby-2.2.1/gems/web-console-2.2.1/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.4ms)
+  Rendered /Users/jhnath/.rvm/gems/ruby-2.2.1/gems/web-console-2.2.1/lib/web_console/templates/console.js.erb within layouts/javascript (40.9ms)
+  Rendered /Users/jhnath/.rvm/gems/ruby-2.2.1/gems/web-console-2.2.1/lib/web_console/templates/main.js.erb within layouts/javascript (0.2ms)
+  Rendered /Users/jhnath/.rvm/gems/ruby-2.2.1/gems/web-console-2.2.1/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.4ms)
+  Rendered /Users/jhnath/.rvm/gems/ruby-2.2.1/gems/web-console-2.2.1/lib/web_console/templates/index.html.erb (88.2ms)
+
+
+Started GET "/" for ::1 at 2015-09-15 10:05:01 -0400
+Processing by WelcomeController#index as HTML
+  Rendered welcome/_form.html.erb (1.7ms)
+  Rendered welcome/index.html.erb within layouts/application (8.6ms)
+Completed 200 OK in 213ms (Views: 203.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2015-09-15 10:05:02 -0400
+Processing by WelcomeController#index as HTML
+  Rendered welcome/_form.html.erb (1.2ms)
+  Rendered welcome/index.html.erb within layouts/application (2.6ms)
+Completed 200 OK in 29ms (Views: 28.9ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/index" for ::1 at 2015-09-15 10:05:09 -0400
+Processing by WelcomeController#index as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"Ouv0Qn0UH4q5giRohLHvnryc3jcUboIzhdt2/R0n4lL4GZJwFQk/zmx28rZxJ1lasIpfu+N8XIUV9aaVZVfPfQ==", "city"=>"Pittsburgh", "state"=>"PA", "commit"=>"Check Weather"}
+Completed 500 Internal Server Error in 958ms (ActiveRecord: 0.0ms)
+
+NoMethodError (undefined method `[]' for nil:NilClass):
+  app/controllers/welcome_controller.rb:12:in `index'
+
+
+  Rendered /Users/jhnath/.rvm/gems/ruby-2.2.1/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/rescues/_source.erb (3.8ms)
+  Rendered /Users/jhnath/.rvm/gems/ruby-2.2.1/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.7ms)
+  Rendered /Users/jhnath/.rvm/gems/ruby-2.2.1/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.0ms)
+  Rendered /Users/jhnath/.rvm/gems/ruby-2.2.1/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (51.3ms)
+  Rendered /Users/jhnath/.rvm/gems/ruby-2.2.1/gems/web-console-2.2.1/lib/web_console/templates/_markup.html.erb (0.4ms)
+  Rendered /Users/jhnath/.rvm/gems/ruby-2.2.1/gems/web-console-2.2.1/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.2ms)
+  Rendered /Users/jhnath/.rvm/gems/ruby-2.2.1/gems/web-console-2.2.1/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.3ms)
+  Rendered /Users/jhnath/.rvm/gems/ruby-2.2.1/gems/web-console-2.2.1/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.3ms)
+  Rendered /Users/jhnath/.rvm/gems/ruby-2.2.1/gems/web-console-2.2.1/lib/web_console/templates/console.js.erb within layouts/javascript (41.6ms)
+  Rendered /Users/jhnath/.rvm/gems/ruby-2.2.1/gems/web-console-2.2.1/lib/web_console/templates/main.js.erb within layouts/javascript (0.3ms)
+  Rendered /Users/jhnath/.rvm/gems/ruby-2.2.1/gems/web-console-2.2.1/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.3ms)
+  Rendered /Users/jhnath/.rvm/gems/ruby-2.2.1/gems/web-console-2.2.1/lib/web_console/templates/index.html.erb (115.2ms)
+
+
+Started POST "/index" for ::1 at 2015-09-15 10:05:26 -0400
+Processing by WelcomeController#index as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"Ouv0Qn0UH4q5giRohLHvnryc3jcUboIzhdt2/R0n4lL4GZJwFQk/zmx28rZxJ1lasIpfu+N8XIUV9aaVZVfPfQ==", "city"=>"Pittsburgh", "state"=>"PA", "commit"=>"Check Weather"}
+  Rendered welcome/_form.html.erb (1.7ms)
+  Rendered welcome/index.html.erb within layouts/application (3.3ms)
+Completed 200 OK in 543ms (Views: 38.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/welcome.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-09-15 10:05:27 -0400
+
+
+Started GET "/assets/application.self-602971811754c378e651cd71eff35c2388f77fd7f2f7d64d2700694477d366f3.css?body=1" for ::1 at 2015-09-15 10:05:27 -0400
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2015-09-15 10:05:27 -0400
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2015-09-15 10:05:27 -0400
+
+
+Started GET "/assets/welcome.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-09-15 10:05:27 -0400
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-09-15 10:05:27 -0400
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2015-09-15 10:05:27 -0400
+
+
+Started GET "/index" for ::1 at 2015-09-15 10:16:39 -0400
+Processing by WelcomeController#index as HTML
+  Rendered welcome/_form.html.erb (1.6ms)
+  Rendered welcome/index.html.erb within layouts/application (8.6ms)
+Completed 200 OK in 251ms (Views: 231.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-602971811754c378e651cd71eff35c2388f77fd7f2f7d64d2700694477d366f3.css?body=1" for ::1 at 2015-09-15 10:16:39 -0400
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-09-15 10:16:39 -0400
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2015-09-15 10:16:39 -0400
+
+
+Started GET "/assets/welcome.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-09-15 10:16:39 -0400
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2015-09-15 10:16:39 -0400
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2015-09-15 10:16:39 -0400
+
+
+Started GET "/assets/welcome.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-09-15 10:16:39 -0400
+
+
+Started POST "/index" for ::1 at 2015-09-15 10:16:48 -0400
+Processing by WelcomeController#index as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"oRN9NlA+m94H70p1vEHUtSp3ot3L3doxV9txOp3CUQBj4RsEOCO7mtIbnKtJ12JxJmEjUTzPBIfH9aFS5bJ8Lw==", "city"=>"Pittsburgh", "state"=>"PA", "commit"=>"Check Weather"}
+  Rendered welcome/_form.html.erb (1.3ms)
+  Rendered welcome/index.html.erb within layouts/application (3.1ms)
+Completed 200 OK in 907ms (Views: 33.4ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/index" for ::1 at 2015-09-15 10:39:12 -0400
+Processing by WelcomeController#index as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"oRN9NlA+m94H70p1vEHUtSp3ot3L3doxV9txOp3CUQBj4RsEOCO7mtIbnKtJ12JxJmEjUTzPBIfH9aFS5bJ8Lw==", "city"=>"Pittsburgh", "state"=>"PA", "commit"=>"Check Weather"}
+  Rendered welcome/_form.html.erb (7.9ms)
+  Rendered welcome/index.html.erb within layouts/application (12.2ms)
+Completed 200 OK in 680ms (Views: 143.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-9bf0c9ec8377b3c593e9f230994e1348ffbcd5dba5b8b8e0976ccd96c30eb2dd.css?body=1" for ::1 at 2015-09-15 10:39:13 -0400
+
+
+Started GET "/assets/welcome.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-09-15 10:39:13 -0400
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2015-09-15 10:39:13 -0400
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2015-09-15 10:39:13 -0400
+
+
+Started GET "/assets/welcome.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-09-15 10:39:13 -0400
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2015-09-15 10:39:13 -0400
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-09-15 10:39:13 -0400
+
+
+Started GET "/" for ::1 at 2015-10-23 22:34:25 -0400
+Processing by WelcomeController#index as HTML
+  Rendered welcome/_form.html.erb (1.6ms)
+  Rendered welcome/index.html.erb within layouts/application (8.4ms)
+Completed 200 OK in 221ms (Views: 211.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/welcome.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-10-23 22:34:25 -0400
+
+
+Started GET "/assets/application.self-b9c5b7e8927b5c1469b837522ef303f50e2602916f8fd945a105bf4e441cca6d.css?body=1" for ::1 at 2015-10-23 22:34:25 -0400
+
+
+Started GET "/assets/welcome.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-10-23 22:34:25 -0400
+
+
+Started GET "/" for ::1 at 2015-10-23 22:34:34 -0400
+Processing by WelcomeController#index as HTML
+  Rendered welcome/_form.html.erb (1.3ms)
+  Rendered welcome/index.html.erb within layouts/application (3.4ms)
+Completed 200 OK in 29ms (Views: 28.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/welcome.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-10-23 22:34:35 -0400
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2015-10-23 22:34:35 -0400
+
+
+Started GET "/assets/application.self-b9c5b7e8927b5c1469b837522ef303f50e2602916f8fd945a105bf4e441cca6d.css?body=1" for ::1 at 2015-10-23 22:34:35 -0400
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2015-10-23 22:34:35 -0400
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-10-23 22:34:35 -0400
+
+
+Started GET "/assets/welcome.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-10-23 22:34:35 -0400
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2015-10-23 22:34:35 -0400
+
+
+Started GET "/" for ::1 at 2015-10-23 22:35:04 -0400
+Processing by WelcomeController#index as HTML
+  Rendered welcome/_form.html.erb (1.7ms)
+  Rendered welcome/index.html.erb within layouts/application (4.2ms)
+Completed 200 OK in 80ms (Views: 79.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-2ee5dee56a3090fcd1cb36fc0529659995d5f8bd230fbc65342d085724bc4141.css?body=1" for ::1 at 2015-10-23 22:35:04 -0400
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2015-10-23 22:35:04 -0400
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-10-23 22:35:04 -0400
+
+
+Started GET "/assets/welcome.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-10-23 22:35:04 -0400
+
+
+Started GET "/assets/welcome.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-10-23 22:35:04 -0400
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2015-10-23 22:35:04 -0400
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2015-10-23 22:35:04 -0400
+
+
+Started GET "/" for ::1 at 2015-10-23 22:37:37 -0400
+Processing by WelcomeController#index as HTML
+  Rendered welcome/_form.html.erb (1.4ms)
+  Rendered welcome/index.html.erb within layouts/application (3.9ms)
+Completed 200 OK in 72ms (Views: 71.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-90e94adc829e1803dbabd21af4a06872b4db2d27e9059d68e1d7e614baf3f65e.css?body=1" for ::1 at 2015-10-23 22:37:37 -0400
+
+
+Started GET "/assets/welcome.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-10-23 22:37:37 -0400
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2015-10-23 22:37:37 -0400
+
+
+Started GET "/assets/welcome.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-10-23 22:37:37 -0400
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-10-23 22:37:37 -0400
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2015-10-23 22:37:37 -0400
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2015-10-23 22:37:37 -0400
+
+
+Started GET "/" for ::1 at 2015-10-26 20:32:44 -0400
+Processing by WelcomeController#index as HTML
+  Rendered welcome/_form.html.erb (1.5ms)
+  Rendered welcome/index.html.erb within layouts/application (8.2ms)
+Completed 200 OK in 219ms (Views: 207.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-90e94adc829e1803dbabd21af4a06872b4db2d27e9059d68e1d7e614baf3f65e.css?body=1" for ::1 at 2015-10-26 20:32:44 -0400
+
+
+Started GET "/" for ::1 at 2015-10-26 20:34:08 -0400
+Processing by WelcomeController#index as HTML
+  Rendered welcome/_form.html.erb (1.0ms)
+  Rendered welcome/index.html.erb within layouts/application (2.8ms)
+Completed 200 OK in 57ms (Views: 55.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-699c0bccad456d9707dd3b5779657d8a2f11dba4d7b2061e360c3a20f41007e5.css?body=1" for ::1 at 2015-10-26 20:34:08 -0400
+
+
+Started GET "/assets/welcome.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-10-26 20:34:08 -0400
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2015-10-26 20:34:08 -0400
+
+
+Started GET "/assets/welcome.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-10-26 20:34:08 -0400
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-10-26 20:34:08 -0400
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2015-10-26 20:34:08 -0400
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2015-10-26 20:34:08 -0400
+
+
+Started GET "/" for ::1 at 2015-10-26 20:34:37 -0400
+Processing by WelcomeController#index as HTML
+  Rendered welcome/_form.html.erb (1.1ms)
+  Rendered welcome/index.html.erb within layouts/application (3.4ms)
+Completed 200 OK in 94ms (Views: 93.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-8b949c23d543fa3e071d633df6aa771c4e54ce7bf0312711ddd715a517c65528.css?body=1" for ::1 at 2015-10-26 20:34:37 -0400
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2015-10-26 20:34:37 -0400
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2015-10-26 20:34:37 -0400
+
+
+Started GET "/assets/welcome.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-10-26 20:34:37 -0400
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-10-26 20:34:37 -0400
+
+
+Started GET "/assets/welcome.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-10-26 20:34:37 -0400
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2015-10-26 20:34:37 -0400
+
+
+Started GET "/" for ::1 at 2015-10-26 20:35:10 -0400
+Processing by WelcomeController#index as HTML
+  Rendered welcome/_form.html.erb (1.3ms)
+  Rendered welcome/index.html.erb within layouts/application (3.2ms)
+Completed 200 OK in 57ms (Views: 56.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/welcome.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-10-26 20:35:10 -0400
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2015-10-26 20:35:10 -0400
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2015-10-26 20:35:10 -0400
+
+
+Started GET "/assets/application.self-90e94adc829e1803dbabd21af4a06872b4db2d27e9059d68e1d7e614baf3f65e.css?body=1" for ::1 at 2015-10-26 20:35:10 -0400
+
+
+Started GET "/assets/welcome.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-10-26 20:35:10 -0400
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-10-26 20:35:10 -0400
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2015-10-26 20:35:10 -0400
+
+
+Started POST "/index" for ::1 at 2015-10-26 20:35:26 -0400
+Processing by WelcomeController#index as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"YWMr9ADFXlPHEV0PfrenKSyVxTITVK5BHcrDmAQmw4bCTRuRCS8o6wt3HvL7Rg8rwnUCFZjgZKSAQf2EuWIzEA==", "city"=>"Pittsburgh", "state"=>"PA", "commit"=>"Check Weather"}
+  Rendered welcome/_form.html.erb (1.3ms)
+  Rendered welcome/index.html.erb within layouts/application (3.2ms)
+Completed 200 OK in 819ms (Views: 43.6ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/index" for ::1 at 2015-10-26 20:36:30 -0400
+Processing by WelcomeController#index as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"YWMr9ADFXlPHEV0PfrenKSyVxTITVK5BHcrDmAQmw4bCTRuRCS8o6wt3HvL7Rg8rwnUCFZjgZKSAQf2EuWIzEA==", "city"=>"Pittsburgh", "state"=>"PA", "commit"=>"Check Weather"}
+  Rendered welcome/_form.html.erb (1.2ms)
+  Rendered welcome/index.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 547ms (Views: 66.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-69710fbc5e00bdbc631d38097ff59cad651958588065e160d004a1ebeb46417a.css?body=1" for ::1 at 2015-10-26 20:36:30 -0400
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2015-10-26 20:36:30 -0400
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-10-26 20:36:30 -0400
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2015-10-26 20:36:30 -0400
+
+
+Started GET "/assets/welcome.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-10-26 20:36:30 -0400
+
+
+Started GET "/assets/welcome.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-10-26 20:36:30 -0400
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2015-10-26 20:36:30 -0400
+
+
+Started POST "/index" for ::1 at 2015-10-26 20:36:43 -0400
+Processing by WelcomeController#index as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"YWMr9ADFXlPHEV0PfrenKSyVxTITVK5BHcrDmAQmw4bCTRuRCS8o6wt3HvL7Rg8rwnUCFZjgZKSAQf2EuWIzEA==", "city"=>"Pittsburgh", "state"=>"PA", "commit"=>"Check Weather"}
+  Rendered welcome/_form.html.erb (1.0ms)
+  Rendered welcome/index.html.erb within layouts/application (2.3ms)
+Completed 200 OK in 1104ms (Views: 38.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-5161b5e6ee149668c7041aa2a6f8435709702ff136bbb680b2b170911aebc179.css?body=1" for ::1 at 2015-10-26 20:36:44 -0400
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2015-10-26 20:36:44 -0400
+
+
+Started GET "/assets/welcome.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-10-26 20:36:44 -0400
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2015-10-26 20:36:44 -0400
+
+
+Started GET "/assets/welcome.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-10-26 20:36:44 -0400
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-10-26 20:36:44 -0400
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2015-10-26 20:36:44 -0400
+
+
+Started POST "/index" for ::1 at 2015-10-26 20:37:44 -0400
+Processing by WelcomeController#index as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"YWMr9ADFXlPHEV0PfrenKSyVxTITVK5BHcrDmAQmw4bCTRuRCS8o6wt3HvL7Rg8rwnUCFZjgZKSAQf2EuWIzEA==", "city"=>"Pittsburgh", "state"=>"PA", "commit"=>"Check Weather"}
+  Rendered welcome/_form.html.erb (1.0ms)
+  Rendered welcome/index.html.erb within layouts/application (2.4ms)
+Completed 200 OK in 497ms (Views: 43.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-b9a39e385de8b8ccc65c7846d8692d50a08712ce826db95955d5151710be9b7a.css?body=1" for ::1 at 2015-10-26 20:37:45 -0400
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2015-10-26 20:37:45 -0400
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-10-26 20:37:45 -0400
+
+
+Started GET "/assets/welcome.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-10-26 20:37:45 -0400
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2015-10-26 20:37:45 -0400
+
+
+Started GET "/assets/welcome.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-10-26 20:37:45 -0400
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2015-10-26 20:37:45 -0400
+
+
+Started GET "/" for ::1 at 2015-10-26 20:38:03 -0400
+Processing by WelcomeController#index as HTML
+  Rendered welcome/_form.html.erb (1.1ms)
+  Rendered welcome/index.html.erb within layouts/application (2.8ms)
+Completed 200 OK in 28ms (Views: 27.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2015-10-26 20:38:03 -0400
+Processing by WelcomeController#index as HTML
+  Rendered welcome/_form.html.erb (1.5ms)
+  Rendered welcome/index.html.erb within layouts/application (3.1ms)
+Completed 200 OK in 46ms (Views: 45.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2015-10-26 20:38:34 -0400
+Processing by WelcomeController#index as HTML
+  Rendered welcome/_form.html.erb (1.2ms)
+  Rendered welcome/index.html.erb within layouts/application (3.6ms)
+Completed 200 OK in 49ms (Views: 48.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-996fb7804338a80bf9df816782a9b01c297f91679873d4ddfea132b0786b7707.css?body=1" for ::1 at 2015-10-26 20:38:34 -0400
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2015-10-26 20:38:34 -0400
+
+
+Started GET "/assets/welcome.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-10-26 20:38:34 -0400
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2015-10-26 20:38:34 -0400
+
+
+Started GET "/assets/welcome.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-10-26 20:38:34 -0400
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-10-26 20:38:34 -0400
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2015-10-26 20:38:34 -0400
+
+
+Started GET "/" for ::1 at 2015-10-26 20:38:47 -0400
+Processing by WelcomeController#index as HTML
+  Rendered welcome/_form.html.erb (1.2ms)
+  Rendered welcome/index.html.erb within layouts/application (2.4ms)
+Completed 200 OK in 28ms (Views: 27.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-10-26 20:38:48 -0400
+
+
+Started GET "/assets/welcome.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-10-26 20:38:48 -0400
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2015-10-26 20:38:48 -0400
+
+
+Started GET "/assets/application.self-b9a39e385de8b8ccc65c7846d8692d50a08712ce826db95955d5151710be9b7a.css?body=1" for ::1 at 2015-10-26 20:38:48 -0400
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2015-10-26 20:38:48 -0400
+
+
+Started GET "/assets/welcome.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-10-26 20:38:48 -0400
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2015-10-26 20:38:48 -0400
+
+
+Started GET "/" for ::1 at 2015-10-26 20:39:08 -0400
+Processing by WelcomeController#index as HTML
+  Rendered welcome/_form.html.erb (1.2ms)
+  Rendered welcome/index.html.erb within layouts/application (2.6ms)
+Completed 200 OK in 49ms (Views: 47.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-b2aa1c265c3e0c007567fbf4a5b33a3b0b199bd3aa0d617fda2c3aa742bd4949.css?body=1" for ::1 at 2015-10-26 20:39:08 -0400
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2015-10-26 20:39:08 -0400
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-10-26 20:39:08 -0400
+
+
+Started GET "/assets/welcome.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-10-26 20:39:08 -0400
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2015-10-26 20:39:08 -0400
+
+
+Started GET "/assets/welcome.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-10-26 20:39:08 -0400
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2015-10-26 20:39:08 -0400
+
+
+Started GET "/" for ::1 at 2015-10-26 20:39:33 -0400
+Processing by WelcomeController#index as HTML
+  Rendered welcome/_form.html.erb (1.0ms)
+  Rendered welcome/index.html.erb within layouts/application (2.3ms)
+Completed 200 OK in 46ms (Views: 45.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-9646a9c2b9d792d25ac100330488e9da86658cfb370a13f9b83ea229557bec56.css?body=1" for ::1 at 2015-10-26 20:39:33 -0400
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2015-10-26 20:39:33 -0400
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2015-10-26 20:39:33 -0400
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-10-26 20:39:33 -0400
+
+
+Started GET "/assets/welcome.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-10-26 20:39:33 -0400
+
+
+Started GET "/assets/welcome.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-10-26 20:39:33 -0400
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2015-10-26 20:39:33 -0400
